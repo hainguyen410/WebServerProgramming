@@ -38,16 +38,6 @@
                     </tr>
                     <tr>
                         <td>
-                            <label for="idd">
-                                ID
-                            </label>
-                        </td>
-                        <td>
-                            <input type="text" name="idd">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
                             <label for="fName">
                                 First name
                             </label>

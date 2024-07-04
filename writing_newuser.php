@@ -9,7 +9,6 @@
             include "connectDB.php";
             include "classUser.php";
             if(isset($_POST["submit"])){
-                $id = $_POST["idd"];
                 $fName = $_POST["fName"];
                 $surName = $_POST["surName"];
                 $phone = $_POST["phone"];
